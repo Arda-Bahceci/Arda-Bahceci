@@ -1,16 +1,70 @@
-## Hi there 👋
+<meta name="description" content="Visuastidiocode">
+<meta name="description" content="VScode">
+<meta name="keywords" content="python, github, proje">
 
-<!--
-**Arda-Bahceci/Arda-Bahceci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Merhaba!+|+Hello!;Ben+Arda+Bahceci;I'm+Arda+Bahceci;Software+Developer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM</h2>
+<h2 align="center">🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF</h2>
+
+---
+
+<img src="https://count.getloli.com/@Arda-Bahceci?name=Arda-Bahceci&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1" alt="Ziyaretçi Sayacı" />
+<br />
+<sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
+
+---
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlzcHI4cDFjaDR2ZnFueTI5Y2lwcHdjNTN6bzNzOGN0eDRxamtzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+<br />
+
+---
+
+### 💫 Hakkımda | About Me
+<p align="center">
+  <b>TR:</b> Yazılım dünyasında kendimi geliştiren bir tutkuluyum. OOP prensiplerine hakimim. <br>
+  <b>EN:</b> I'm a passionate developer constantly improving myself. Skilled in OOP.
+</p>
+
+---
+
+### 🛠️ Teknolojiler | Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,cs,py,androidstudio,vscode,arduino,mysql,git&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim | Stats
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arda-Bahceci&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arda-Bahceci&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Bahceci&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın | Contact Me
+<p align="center">
+<a href="https://www.linkedin.com/in/arda-bahceci-00b883383/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bahceciarda34@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" />
+
+</div>
