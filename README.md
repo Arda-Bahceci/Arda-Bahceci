@@ -11,7 +11,7 @@
 
 ---
 
-<img src="https://count.getloli.com/@Arda-Bahceci?name=Arda-Bahceci&theme=morden-num&padding=7&offset=5&align=top&scale=1&pixelated=1&darkmode=1" alt="Ziyaretçi Sayacı" />
+<img src="https://komarev.com/ghpvc/?username=Arda-Bahceci&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 <br />
 <sub>Profil Ziyaretçi Sayısı | Profile Visitor Count</sub>
 
